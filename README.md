@@ -1,7 +1,3 @@
-This is a definitive, technical blueprint for a "Zero-License" Multi-Room Lab (3 Windows Rooms, 1 Mac Room). This guide uses **Ubuntu 24.04/26.04 LTS** and **Samba 4** to create a fully functional Active Directory environment.
-
----
-
 ## Project: The "Zero-License" Unified Lab
 
 ### 1. The Core Objective
